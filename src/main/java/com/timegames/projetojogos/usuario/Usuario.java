@@ -29,7 +29,6 @@ public class Usuario {
 		this.name = name;
 		this.email = email;
 	}
-	
 
 	public Usuario() {
 		super();
